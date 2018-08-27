@@ -1,0 +1,8 @@
+﻿  Scanner.c
+c:\users\kolla revanth\documents\visual studio 2013\projects\assemblycompiler\assemblycompiler\allocations.h(67): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\kolla revanth\documents\visual studio 2013\projects\assemblycompiler\assemblycompiler\generateinstructions.h(149): warning C4133: 'function' : incompatible types - from 'labelTabel **' to 'labelTable **'
+c:\users\kolla revanth\documents\visual studio 2013\projects\assemblycompiler\assemblycompiler\scanner.c(58): warning C4047: '!=' : 'char *' differs in levels of indirection from 'int'
+c:\users\kolla revanth\documents\visual studio 2013\projects\assemblycompiler\assemblycompiler\scanner.c(91): warning C4133: 'function' : incompatible types - from 'labelTable **' to 'labelTabel **'
+c:\users\kolla revanth\documents\visual studio 2013\projects\assemblycompiler\assemblycompiler\generateinstructions.h(126): warning C4715: 'getComparisionOpCode' : not all control paths return a value
+c:\users\kolla revanth\documents\visual studio 2013\projects\assemblycompiler\assemblycompiler\scanner.c(45): warning C4715: 'getConstant' : not all control paths return a value
+  assemblyCompiler.vcxproj -> C:\Users\kolla Revanth\Documents\Visual Studio 2013\Projects\assemblyCompiler\Debug\assemblyCompiler.exe
